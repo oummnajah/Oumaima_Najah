@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241475279365",
+    "project_id": "songquizapp-8dfa2",
+    "storage_bucket": "songquizapp-8dfa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241475279365:android:a09dd0e03894b9f7761a6c",
+        "android_client_info": {
+          "package_name": "com.example.songquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241475279365-l44vq8coco56cbnjuqjkdi51psopcc20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC53BEqcQwxiJYGu_RW6xoewpYZ-_qGzEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241475279365-l44vq8coco56cbnjuqjkdi51psopcc20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
